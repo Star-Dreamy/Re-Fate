@@ -16,8 +16,6 @@
   <img width="2552" height="1406" alt="image" src="https://github.com/user-attachments/assets/65edf983-3433-4ceb-8760-d3e075b38cbc" />#
   背包栏
   <img width="2550" height="1419" alt="image" src="https://github.com/user-attachments/assets/897897e9-4a94-4fc8-842e-a5f598a5efd1" />
--存档界面展示
-  <img width="2559" height="1404" alt="image" src="https://github.com/user-attachments/assets/0aca0950-7903-4180-aa23-a55e392d7f3c" />
 - 核心玩法模块展示
   攻击
   <img width="2559" height="1418" alt="image" src="https://github.com/user-attachments/assets/50a79b62-5630-46fa-8caf-9c92c793eff8" />
