@@ -10,16 +10,15 @@
 
 ## 实机运行截图
 - 场景运行效果
-  <img width="2556" height="1410" alt="image" src="https://github.com/user-attachments/assets/cf7c125f-32e1-4bbe-a8c9-ecf6c7cb02c5" />
+  <img width="1469" height="807" alt="4f9e575e-e0f1-405a-84d8-5ddb05b8e34a" src="https://github.com/user-attachments/assets/69cf9743-81af-4690-bac6-823c5188f1a1" />
 - UI界面展示
   主界面
-  <img width="2552" height="1406" alt="image" src="https://github.com/user-attachments/assets/65edf983-3433-4ceb-8760-d3e075b38cbc" />#
+  <img width="1467" height="811" alt="de1796fa-0d57-4ed2-b32b-cb53c42ead99" src="https://github.com/user-attachments/assets/50beaf04-4434-4b0c-bc7e-e7e4b61be950" />
   背包栏
-  <img width="2550" height="1419" alt="image" src="https://github.com/user-attachments/assets/897897e9-4a94-4fc8-842e-a5f598a5efd1" />
+  <img width="1466" height="813" alt="e8e4e94a-1766-4281-acc8-0564c60f5c1e" src="https://github.com/user-attachments/assets/3ffef88a-f287-47f9-8dd1-340e030ac45d" />
 - 核心玩法模块展示
   攻击
-  <img width="2559" height="1418" alt="image" src="https://github.com/user-attachments/assets/50a79b62-5630-46fa-8caf-9c92c793eff8" />
-
+  <img width="1466" height="813" alt="1eab40c6-13d9-49b9-829e-90a76d05cdf9" src="https://github.com/user-attachments/assets/74bbac0b-0f61-42a2-8746-3cf89002a555" />
 ## 技术栈
 - Unity（游戏引擎）
 - C#
