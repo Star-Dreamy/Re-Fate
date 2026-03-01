@@ -9,17 +9,18 @@
 游戏实机运行效果、玩法展示及界面表现请参考下方截图与演示内容。
 
 ## 实机运行截图
-- 角色控制系统
-  
 - 场景运行效果
-  
+  <img width="2556" height="1410" alt="image" src="https://github.com/user-attachments/assets/cf7c125f-32e1-4bbe-a8c9-ecf6c7cb02c5" />
 - UI界面展示
-  <img width="2552" height="1406" alt="image" src="https://github.com/user-attachments/assets/65edf983-3433-4ceb-8760-d3e075b38cbc" /># 
+  主界面
+  <img width="2552" height="1406" alt="image" src="https://github.com/user-attachments/assets/65edf983-3433-4ceb-8760-d3e075b38cbc" />#
+  背包栏
+  <img width="2550" height="1419" alt="image" src="https://github.com/user-attachments/assets/897897e9-4a94-4fc8-842e-a5f598a5efd1" />
+-存档界面展示
+  <img width="2559" height="1404" alt="image" src="https://github.com/user-attachments/assets/0aca0950-7903-4180-aa23-a55e392d7f3c" />
 - 核心玩法模块展示
-
-## 实机演示视频
-演示视频链接：
-【在此粘贴你的演示视频链接】
+  攻击
+  <img width="2559" height="1418" alt="image" src="https://github.com/user-attachments/assets/50a79b62-5630-46fa-8caf-9c92c793eff8" />
 
 ## 技术栈
 - Unity（游戏引擎）
