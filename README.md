@@ -1,4 +1,4 @@
-<img width="2552" height="1406" alt="image" src="https://github.com/user-attachments/assets/65edf983-3433-4ceb-8760-d3e075b38cbc" /># 《Re:Fate》——基于Unity引擎的游戏设计与实现
+《Re:Fate》——基于Unity引擎的游戏设计与实现
 
 ## 项目简介
 《Re:Fate》是一款基于 Unity 引擎开发的2.5D游戏项目，项目围绕角色养成、基础战斗逻辑与游戏系统设计展开，旨在实践完整的游戏开发流程，包括系统设计、玩法实现与基础交互逻辑搭建。
@@ -14,7 +14,7 @@
 - 场景运行效果
   
 - UI界面展示
-  
+  <img width="2552" height="1406" alt="image" src="https://github.com/user-attachments/assets/65edf983-3433-4ceb-8760-d3e075b38cbc" /># 
 - 核心玩法模块展示
 
 ## 实机演示视频
