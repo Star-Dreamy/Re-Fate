@@ -16,9 +16,6 @@
   <img width="1467" height="811" alt="de1796fa-0d57-4ed2-b32b-cb53c42ead99" src="https://github.com/user-attachments/assets/50beaf04-4434-4b0c-bc7e-e7e4b61be950" />
   背包栏
   <img width="1466" height="813" alt="e8e4e94a-1766-4281-acc8-0564c60f5c1e" src="https://github.com/user-attachments/assets/3ffef88a-f287-47f9-8dd1-340e030ac45d" />
-- 核心玩法模块展示
-  攻击
-  <img width="1466" height="813" alt="1eab40c6-13d9-49b9-829e-90a76d05cdf9" src="https://github.com/user-attachments/assets/74bbac0b-0f61-42a2-8746-3cf89002a555" />
 ## 技术栈
 - Unity（游戏引擎）
 - C#
